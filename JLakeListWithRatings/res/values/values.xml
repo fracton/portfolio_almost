@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="nebraskaCity">
+        <item >grand island</item>
+        <item>lincoln</item>
+		<item>north platte</item>
+		<item>omaha </item>
+		<item>council bluffs</item>
+		<item>scottsbluff</item>
+		<item>panhandle</item>
+		<item>ainsworth</item>
+		<item>ashland</item>
+		<item>bloomfield</item>
+		<item>crofton</item>
+		<item>dakota city</item>
+		<item>fairbury</item>
+		<item>gretna</item>
+		<item>hebron</item>
+		<item>kearney</item>
+		<item>neligh</item>
+		<item>peru</item>
+		<item>sutton</item>
+    </string-array>
+    
+</resources>
